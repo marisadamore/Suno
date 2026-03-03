@@ -68,7 +68,7 @@ Life’s little joys start here with you.
 
 ## 4. Listen to the AI-Generated Song
 
-- [Starbucks In Spring (Suno AI Song)](./Starbucks%20In%20Spring.mp3)
+- [Starbucks In Spring (Suno AI Song)](./Starbucks%20in%20Spring.mp3)
 
 ---
 
